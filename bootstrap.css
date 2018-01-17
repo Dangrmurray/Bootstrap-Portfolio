@@ -1,0 +1,60 @@
+#logo{
+	color: white;
+	background-color: #4aaaa5;
+	float: left;
+	padding: 25px;
+	font-size: 25px;
+	font-family: 'Georgia', Times, Times New Roman, serif; 
+
+}
+body{
+	background-color: lightgrey;
+
+	
+
+}
+
+.container{
+
+}
+
+#topBar{
+	background-color: white;
+	text-align: right;
+}
+
+.navLinks{
+	position: relative;
+	top: 25px;
+	right: 10px;	
+}
+
+#main-container{
+	background-color: white;
+}
+#wrapper{
+	background-color: #ffffff;
+
+}
+
+#wrapper2{
+	background-color: #ffffff;
+	margin: 20px;
+
+}
+
+figure{
+	position: relative;
+	top: 20px;
+
+	background-color: #4aaaa5;
+	padding: 10px 0px 0px;
+}
+
+footer{
+	position: relative;
+	text-align: center;
+	background-color: #666666;
+	padding: 25px;
+	bottom: 0px;
+}
